@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "Test@123",
+      "id": 1
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "Test1@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "test1@gmail.coM",
+      "id": 3
+    },
+    {
+      "email": "dfsfs@gmal.com",
+      "password": "Asdf123@",
+      "id": 4
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "Asdf123@",
+      "id": 5
+    },
+    {
+      "email": "A@gmail.com",
+      "password": "Asdf123@",
+      "id": 6
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "Asdf123@",
+      "id": 7
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "Test@123",
+      "id": 8
+    }
+  ]
+}
